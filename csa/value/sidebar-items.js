@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Action",""],["Color",""],["GameAttribute",""],["PieceType",""]],"struct":[["GameRecord",""],["MoveRecord",""],["Position",""],["Square",""],["Time",""],["TimeLimit",""]]});
